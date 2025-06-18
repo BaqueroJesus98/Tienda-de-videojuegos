@@ -97,3 +97,9 @@ Este es un **proyecto funcional de e-commerce móvil** en React Native que:
 <a href="https://ibb.co/XZCRNmtg"><img src="https://i.ibb.co/ynQjGLq1/capcodigo1.jpg" alt="capcodigo1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>montar fotos en linea</a><br />
 <a href="https://ibb.co/d0p5WjYn"><img src="https://i.ibb.co/HDPHFB8m/capcodigo2.jpg" alt="capcodigo2" border="0"></a>
 <a href="https://ibb.co/wh5HGj3Y"><img src="https://i.ibb.co/VYfyn5r3/capcodigo3.jpg" alt="capcodigo3" border="0"></a>
+<a href="https://ibb.co/2YS9mLxx"><img src="https://i.ibb.co/vvhFgrpp/capcodigo4.jpg" alt="capcodigo4" border="0"></a>
+<a href="https://ibb.co/3DKv4GY"><img src="https://i.ibb.co/DxdYzsg/capcodigo5.jpg" alt="capcodigo5" border="0"></a>
+<a href="https://ibb.co/k2f2fHG0"><img src="https://i.ibb.co/3mqmqrTW/capcodigo6.jpg" alt="capcodigo6" border="0"></a>
+<a href="https://ibb.co/8L0h68rJ"><img src="https://i.ibb.co/ZpVZWTB3/capcodigo7jpg.jpg" alt="capcodigo7jpg" border="0"></a>
+<a href="https://ibb.co/ksLRDbHn"><img src="https://i.ibb.co/9kxF4K8X/capcodigo8.jpg" alt="capcodigo8" border="0"></a>
+<a href="https://ibb.co/WvMpDX3z"><img src="https://i.ibb.co/DfvgGFbM/capcodigo9.jpg" alt="capcodigo9" border="0"></a>
