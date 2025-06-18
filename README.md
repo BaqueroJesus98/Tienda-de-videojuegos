@@ -1,9 +1,9 @@
 # Tienda-de-videojuegos
 
 ### 🛠️ **Autores** 🛠️
-Luis Enrique Spezzia Jacome
-Marco Antonio Morales Ramoz
-Jesus Antonio Baquero Sacramento
+* Luis Enrique Spezzia Jacome
+* Marco Antonio Morales Ramoz
+* Jesus Antonio Baquero Sacramento
 
 ### 🧾 **Introduccion**
 Este código es una **aplicación móvil de tienda de videojuegos** desarrollada con **React Native**, usando **JavaScript** y ejecutada o demostrada a través de **Snack ([https://snack.expo.dev](https://snack.expo.dev))**, una plataforma de desarrollo y prueba para apps React Native.
