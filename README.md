@@ -95,3 +95,5 @@ Este es un **proyecto funcional de e-commerce móvil** en React Native que:
 ¿Quieres que te ayude a modularlo o a agregar nuevas funciones?
 
 <a href="https://ibb.co/XZCRNmtg"><img src="https://i.ibb.co/ynQjGLq1/capcodigo1.jpg" alt="capcodigo1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>montar fotos en linea</a><br />
+<a href="https://ibb.co/d0p5WjYn"><img src="https://i.ibb.co/HDPHFB8m/capcodigo2.jpg" alt="capcodigo2" border="0"></a>
+<a href="https://ibb.co/wh5HGj3Y"><img src="https://i.ibb.co/VYfyn5r3/capcodigo3.jpg" alt="capcodigo3" border="0"></a>
